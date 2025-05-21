@@ -48,6 +48,14 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
 />
 <img 
   align="left" 
+  alt="Jenkins" 
+  title="Jenkins"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
+<img 
+  align="left" 
   alt="C"
   title="C" 
   width="30px" 
