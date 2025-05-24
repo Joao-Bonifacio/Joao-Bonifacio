@@ -324,7 +324,7 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
   title="Ansible" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" 
 />
 <img 
   align="left" 
