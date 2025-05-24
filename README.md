@@ -24,6 +24,30 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
 />
 <img 
   align="left" 
+  alt="Windows"
+  title="Windows" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="VScode"
+  title="VScode" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Bash"
+  title="Bash" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+  align="left" 
   alt="Git" 
   title="Git"
   width="30px" 
@@ -142,6 +166,14 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+<img 
+  align="left" 
+  alt="ThreeJS" 
+  title="ThreeJS"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" 
+/>
 <img
   align="left" 
   alt="Next" 
@@ -157,6 +189,22 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/>
+<img
+  align="left" 
+  alt="tRPC" 
+  title="tRPC"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" 
+/>
+<img
+  align="left" 
+  alt="SocketIO" 
+  title="SocketIO"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" 
 />
 <img
   align="left" 
@@ -181,6 +229,14 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="SQLite"
+  title="SQLite" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 <img 
   align="left" 
@@ -224,11 +280,59 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
 />
 <img 
   align="left" 
+  alt="RabbitMQ"
+  title="RabbitMQ" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Grafana"
+  title="Grafana" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Prometheus"
+  title="Prometheus" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Opentelemetry"
+  title="Opentelemetry" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" 
+/>
+<img 
+  align="left" 
   alt="Terraform"
   title="Terraform" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Argocd"
+  title="Argocd" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Cloudflare"
+  title="Cloudflare" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" 
 />
 
 <br/>
