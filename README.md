@@ -166,6 +166,14 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
 />
+<img
+  align="left" 
+  alt="Sonarqube" 
+  title="Sonarqube"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" 
+/>
 <img 
   align="left" 
   alt="Prisma"
