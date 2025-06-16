@@ -6,13 +6,13 @@
   
 </div>
 
-**`Desenvolvedor FullCycle`**
+**`FullCycle Software Egineer`**
 
-Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e Ciências Econômicas na Estácio (EAD). Sou apaixonado por tecnologia, economia e tudo o que envolva ciências e funcionamento de sistemas, sempre empenhado em aprender coisas novas e me desenvolver intelectualmente.
+My name is João Bonifácio. I am currently studying Computer Science and Economics at Estácio (EAD). I am passionate about technology, economics and everything that involves science and systems functioning, always committed to learning new things and developing myself intellectually.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
   align="left" 
@@ -356,7 +356,7 @@ Me chamo João Bonifácio. Atualmente estou cursando Ciências da Computação e
 
 # 
 ---
-### 📊 Estatísticas
+### 📊 Statistics
 
 <table align="center">
   <tr>
