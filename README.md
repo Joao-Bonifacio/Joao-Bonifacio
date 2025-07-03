@@ -356,4 +356,24 @@ My name is João Bonifácio. I am currently studying Computer Science and Econom
 
 ---
 
+### 📊 Statistics
+
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=Joao-Bonifacio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Linguagens mais usadas" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Bonifacio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
