@@ -353,8 +353,10 @@ My name is João Bonifácio. I am currently studying Computer Science and Econom
   />
 </div>
 
+---
 <br/>
 <br/>
+---
 
 ### 📊 Statistics
 
