@@ -351,11 +351,11 @@ My name is João Bonifácio. I am currently studying Computer Science and Econom
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" 
   />
+
+  <br/>
+  <br/>
 </div>
 
----
-<br/>
-<br/>
 ---
 
 ### 📊 Statistics
