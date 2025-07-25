@@ -355,10 +355,7 @@ My name is João Bonifácio. I am currently studying Computer Science and Econom
   <br/>
   <br/>
 </div>
-
----
 <img src="https://tryhackme-badges.s3.amazonaws.com/jhowlord.png" alt="TryHackMe" />
----
 ### 📊 Statistics
 
 <table align="center">
